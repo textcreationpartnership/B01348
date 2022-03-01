@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the behaviour of Sir John Fenwick, at his execution on Tower-Hill with the copy of the paper delivered by him to the sheriffs of London, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01348</idno>
+            <idno type="STC">Wing A249</idno>
+            <idno type="STC">ESTC R170027</idno>
+            <idno type="EEBO-CITATION">52211638</idno>
+            <idno type="OCLC">ocm 52211638</idno>
+            <idno type="VID">175373</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01348)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175373)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2731:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the behaviour of Sir John Fenwick, at his execution on Tower-Hill with the copy of the paper delivered by him to the sheriffs of London, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>for John Salusbury at the Rising-Sun in Cornhill ;</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <pubPlace>And re-printed at Glasgow,</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fenwick, John, --  Sir, 1645?-1697 --  Death and burial --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175373:1"/>
+            <pb n="1" facs="tcp:175373:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT Of the Behaviour of Sir <hi>John Fenwick,</hi> at his Execution on <hi>Tower-Hill:</hi> with the Copy of the Paper deli<g ref="char:EOLhyphen"/>vered by him to the Sheriffs of <hi>London,</hi> &amp;c.</head>
+            <p>SIR <hi>John Fenwick,</hi> on the Day of his Execution, aroſe at Four a Clock in the Morning, and was privat until Seven: At Ten he came out of <hi>Newgate</hi> into a Mourning Coach, was received by the Sheriffs and Guards, and conducted to <hi>Tower-Hill;</hi> in his paſſage he fix'd his Eyes on a Prayer Book, and ſpoke not a word to any perſon. So numerous were the Spectators that it was paſt Eleven half an Hour before he came upon the Scaffold; where it was obſerved at firſt, that he ſeemed to be ſomewhat ſurprized, and for a few Moments ſtood Speechleſs, but ſoon after appeared with great compoſure of mind; and after ſaluting thoſe on the Scaffold, deſired Dr. <hi>White</hi> to pray with him: Which being over, he thank'd the Sheriffs for their Civilities, and delivered them a Paper, deſiring them to do him that Juſtice as to give it the King. He then prayed again, and having for given the Executioner, prepared himſelf for the Block, and the Sign being given, the Executioner, at one blow, ſever'd his Head from his Body; which was brought in a Hearſe to one Mr. <hi>Metcalfs,</hi> an Upholſter, at the <hi>Helmet,</hi> in <hi>Fleet-ſtreet,</hi> and thence, that Night, privatly Interred in the Church of St. <hi>Martins</hi> in the Field. The Sheriffs, according to his deſire, delivered the Paper to the King; Which is as follows.</p>
+            <q>
+               <p>SPeaking nor Writing was never my Talent; I ſhall therefore give a very ſhort. but faithfull Account. Firſt, Of my Religion; and next, What I ſuffer moſt innocently for, to avoid the Calumnies I may reaſonably ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect my Enemies will caſt upon me when Dead, ſince they have moſt falſly and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aliciouſly aſperſed me, whilſt under my Misfortunes.</p>
+               <p>As for my Religion; I was brought up in the Church of <hi>England,</hi> as it is <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtabliſhed by Law, and have ever profeſſed it; tho, I confeſs, I have been an <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nworthy Member of it, in not living up to the ſtrict and excellent Rules thereof, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or which I take ſhame to my ſelf, and humbly ask forgiveneſs of GOD. I come <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow to Die in that Communion, truſting, as an humble and hearty Penitent, to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> received by the Mercy of GOD, through the Merits of Jeſus Chriſt my <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>VIOUR.</p>
+               <pb n="2" facs="tcp:175373:2"/>
+               <p> My Religion taught me my Loyalty, which I bleſs God, is untainted; and I h<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ever endeavoured, in the Station wherein I have been placed, to the utm<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of my power, to ſupport the Crown of <hi>England,</hi> in the true and lineal courſe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Deſcent, without interruption.</p>
+               <p>As for what I am now to Die, I call GOD to witneſs, I went not to th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Meeting in <hi>Leaden-Hall-Street</hi> with any ſuch intention, as to Invite King <hi>Jam<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> by Force to Invade this Nation; nor was I my ſelf provided with either Hon<g ref="char:EOLhyphen"/>or Arms, or engaged for any number, of Men, or gave particular conſent f<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> any ſuch Invaſion, as is moſt falſly Sworn againſt me.</p>
+               <p>I do alſo declare, in the preſence of GOD, that I knew nothing of King <hi>Jam<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> his coming to <hi>Calais,</hi> not of any Invaſion intended from thence, till it was pu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lickly known; and the only Notion I had that ſomething might be attempt<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> was from the <hi>Thoulon</hi> Fleet coming to <hi>Brest.</hi>
+               </p>
+               <p>I alſo call GOD to witneſs, that I received the knowledge, of what is co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tained in thoſe Papers that I gave to a Great Man that came to me in the <hi>Towe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> both from Letters and Meſſages that came from <hi>France;</hi> and he told me, wh<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I read them to him, that the Prince of <hi>Orange</hi> had been acquainted with moſt thoſe things before.</p>
+               <p>I might have expected Mercy from that Prince, becauſe I was Inſtrumental ſaving his Life; for when, about <hi>April</hi> 95, An Attempt formed againſt hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> came to my Knowledge, <hi>I</hi> did partly by Diſſwaſions, and partly by Delay prevent that Deſign; which, I ſuppoſe, was the reaſon that the laſt Villaino<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Project was concealed from me.</p>
+               <p>If there be any Perſons whom I have Injured in Word or Deed, I heart pray their Pardon, and beg of God to Pardon thoſe who have Injured m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> particularly, thoſe who with great Zeal hath ſought my Life, and brought t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> guilt of my Innocent Blood upon this Nation, no Treaſon being proved up<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> me.</p>
+               <p>I return my moſt hearty Thanks to thoſe Noble and worthy Perſons who ga<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> their Aſſiſtance, by oppoſing this Bill of Attainder; Without which, it had be Impoſſible I could have fallen under the Sentence of death. God bleſs them a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> their Poſterity; tho', I am fully ſatisfied, they pleaded their own Cauſe wh<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they defended mine.</p>
+               <p>
+                  <hi>And now, O GOD, I do with all humble Devotion commend <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Soul into thy Hands, the great Maker and Preſerver of Men, a<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Lover of Souls; beſeeching thee, that it may be always dear and precio<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in thy ſight, through the Merits of my SAVIO<g ref="char:V">Ʋ</g>R JES<g ref="char:V">Ʋ</g>S CHRIS<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Amen.</p>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> for <hi>John Salusbury</hi> at th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Riſing-Sun</hi> in <hi>Cornhill.</hi>
+            </p>
+            <p>And Re-printed at <hi>Glaſgow,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
